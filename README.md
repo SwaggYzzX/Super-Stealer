@@ -24,8 +24,3 @@ Download
 
 
 
-
-https://raw.githubusercontent.com/Blank-c/Blank-Grabber/main/.github/workflows/image.png
-
-
-
