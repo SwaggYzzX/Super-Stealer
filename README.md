@@ -4,9 +4,8 @@
 The best account stealer ever created
 
 Things you'll need:
-Active internet                                                                                        
-Windows 8+
-A brain
+Active internet___
+Windows 8+___
 The user of your target
 
 How to use:
