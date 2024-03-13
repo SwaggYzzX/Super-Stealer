@@ -1,4 +1,5 @@
-![imresizer-1708661027221](https://github.com/SwaggYzzX/Super-Stealer/assets/163231914/68d097e0-2d98-4fee-b89d-f1c64d9a5493)
+![pp4fjz8y7sl51 (1)](https://github.com/SwaggYzzX/Super-Stealer/assets/163231914/5deb2707-1172-4596-8066-8e48de2dc462)
+
 # Super-Stealer
 The best account stealer ever created
 
